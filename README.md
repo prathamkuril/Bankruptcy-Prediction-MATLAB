@@ -1,4 +1,4 @@
-# Bankruptcy Prediction with MATLAB using Linear Regression and Random Forest models
+# Bankruptcy Prediction Using MATLAB with Linear Regression and Random Forest Models for Financial Risk Analysis
 
 ## Overview
 
